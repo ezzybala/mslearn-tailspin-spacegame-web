@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ezzybala/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status%2Fezzybala.mslearn-tailspin-spacegame-web?branchName=new-build)](https://dev.azure.com/ezzybala/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=5&branchName=new-build)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
