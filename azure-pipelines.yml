@@ -1,4 +1,4 @@
-#this yml script work like magic test
+#this yml script work like magic. Lets run a build
 
 trigger:
 - '*'
