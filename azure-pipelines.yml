@@ -1,4 +1,6 @@
-#this yml script work like magic. Lets run a build
+#this yml script work like magic. Lets run a build 
+
+# added a build badge
 
 trigger:
 - '*'
